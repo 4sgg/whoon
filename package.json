@@ -1,0 +1,26 @@
+{
+  "name": "whoon",
+  "version": "0.0.1",
+  "description": "A command-line tool for checking online status of stored hosts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4sgg/whoon.git"
+  },
+  "keywords": [
+    "network",
+    "ping"
+  ],
+  "author": "4sgg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4sgg/whoon/issues"
+  },
+  "homepage": "https://github.com/4sgg/whoon#readme",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
