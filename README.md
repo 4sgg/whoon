@@ -17,6 +17,7 @@ npm install -g whoon
 ```bash
 git clone https://github.com/4sgg/whoon.git
 cd whoon
+npm install
 npm link
 ```
 

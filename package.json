@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "whoon": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/4sgg/whoon.git"
@@ -15,6 +18,12 @@
     "ping"
   ],
   "author": "4sgg",
+  "contributors": [
+    {
+      "name": "bongtrop",
+      "email": "bongtrop@gmail.com"
+    }
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/4sgg/whoon/issues"
